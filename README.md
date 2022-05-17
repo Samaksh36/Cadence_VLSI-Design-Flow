@@ -1,5 +1,5 @@
 # VLSI-Design-Flow via Cadence Tools
-### Institute: Indraprastha Institute of Information Technology, Delhi
+### Institute: Indraprastha Institute of Information Technology, Delhi (IIITD)
 ### Instructor: Dr Sneh Saurabh
 ### Course: VLSI Design Flow
 ### Semester: Winter 2022
