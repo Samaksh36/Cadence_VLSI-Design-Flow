@@ -15,9 +15,7 @@ Cadence Innovus: Physical Design
 ```
 
 ```
-The idea is to begin with a logic block, and write its equivalent RTL module. We are using Verilog to describe the hardware.
-
-We would be implementing the following logic block: -
+Logic Block
 If C=8’h00 TO 8’h59, 4-bit ring counter
 C=8’h78 TO 8’h90, 4x1 Mux
 C=8’hB1 TO 8’hED, frequency divider by 8
