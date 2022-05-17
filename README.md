@@ -40,7 +40,7 @@ Cadence Innovus for Physical Design: -
 -- FloorPlanning (Pin placement, Power Planning, Die and Core Area)
 -- Placement (Global Placement, Legalization, Detailed Placement)
 -- Routing (Global Routing, Detailed Routing)
--- Save the final GDS file
+Save the final GDS file
 ```
 
 
