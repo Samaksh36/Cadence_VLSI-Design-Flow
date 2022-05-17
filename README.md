@@ -37,7 +37,7 @@ Part 2
 Cadence Conformal for equivalence checking on the new netist (not done by us)
 Cadence Tempus for STA on the new netlist generated using various .sdc files after DFT
 Cadence Innovus for Physical Design: -
--- FloorPlanning (Pin placement, Power Planning, Die and Core Area)
+-- FloorPlanning (Die and Core Area, Pin placement, Power Planning)
 -- Placement (Global Placement, Legalization, Detailed Placement)
 -- Routing (Global Routing, Detailed Routing)
 Save the final GDS file
