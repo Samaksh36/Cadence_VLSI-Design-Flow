@@ -5,13 +5,14 @@
 ### Semester: Winter 2022
 ### Abstract: RTL to GDS via Cadence Tools 
 
-
+bash```
 ### Tools
 Cadence Simvision and IMC: RTL simulation and Code Coverage via Test Bench<br />
 Cadence Genus: Logic Synthesis <br />
 Cadence Conformal: Equivalence Checking<br />
 Cadence Tempus: Static Timing Analysis<br />
 Cadence Innovus: Physical Design<br />
+end```
 
 The idea is to begin with a logic block, and write its equivalent RTL module. We are using Verilog to describe the hardware.
 
